@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Android_Res</string>
-    <string name="button_text">进入页面</string>
+    <string name="button_text">啥也没有</string>
+    <string name="button_text2">点击进入新页面</string>
+    <string name="button_text3">返回主页</string>
 </resources>
