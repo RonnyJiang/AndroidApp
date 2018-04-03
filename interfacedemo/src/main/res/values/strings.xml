@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InterfaceDemo</string>
+    <string name="getInfo">获取信息</string>
+    <string name="waitchange">等待修改</string>
+</resources>

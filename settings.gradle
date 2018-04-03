@@ -1,1 +1,1 @@
-include ':android_res'
+include ':android_res', ':interfacedemo'
